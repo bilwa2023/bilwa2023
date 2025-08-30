@@ -90,10 +90,9 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" width="40" height="40"/> 
   </a> 
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bilwa2023&show_icons=true&locale=en&layout=compact" alt="bilwa2023" height="170" style="margin-right: 10px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bilwa2023&" alt="bilwa2023" height="170" style="margin-left: 10px;" />
+</p>
 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bilwa2023&show_icons=true&locale=en&layout=compact" alt="bilwa2023" /></p>
----
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bilwa2023&" alt="bilwa2023" /></p>
 
