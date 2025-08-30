@@ -9,12 +9,15 @@
 
 ---
 
-- 🌱 Currently learning **Cloud & AI**
-- 💬 Ask me about **Java, Spring Boot, React, JavaScript, SQL**
-- 📫 Reach me at **bilwa.828828@gmail.com**
-- ⚡ Fun fact: I believe semicolons deserve more love ;  
+<p align="center">
+  🌱 Currently learning <b>Cloud & AI</b> <br><br>
+  💬 Ask me about <b>Java, Spring Boot, React, JavaScript, SQL</b> <br><br>
+  📫 Reach me at <b>bilwa.828828@gmail.com</b> <br><br>
+  ⚡ Fun fact: <i>I believe semicolons deserve more love ;</i>
+</p>
 
 ---
+
 
 
 
@@ -26,6 +29,8 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/bmbiswal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bmbiswal/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/b_i_l_w_a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/b_i_l_w_a/" height="30" width="40" /></a>
+
+<hr style="height:0.5px; border:none; background-color:#ddd;"/>
 
 
 <h3 align="center">Languages and Tools:</h3>
@@ -90,6 +95,9 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" width="40" height="40"/> 
   </a> 
 </p>
+
+<hr style="height:0.5px; border:none; background-color:#ddd;"/>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bilwa2023&show_icons=true&locale=en&layout=compact" alt="bilwa2023" height="170" style="margin-right: 10px;" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bilwa2023&" alt="bilwa2023" height="170" style="margin-left: 10px;" />
