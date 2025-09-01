@@ -13,7 +13,6 @@
   🌱 Currently learning <b>Cloud & AI</b> <br><br>
   💬 Ask me about <b>Java, Spring Boot, React, JavaScript, SQL</b> <br><br>
   📫 Reach me at <b>bilwa.828828@gmail.com</b> <br><br>
-  ⚡ Fun fact: <i>I believe semicolons deserve more love ;</i>
 </p>
 
 ---
